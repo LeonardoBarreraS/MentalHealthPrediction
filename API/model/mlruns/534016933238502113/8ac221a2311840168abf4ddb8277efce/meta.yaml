@@ -1,0 +1,15 @@
+artifact_uri: file:///I:/Mi unidad/Data Science/Projects/Exploring Mental Health/API/model/mlruns/534016933238502113/8ac221a2311840168abf4ddb8277efce/artifacts
+end_time: 1740626421102
+entry_point_name: ''
+experiment_id: '534016933238502113'
+lifecycle_stage: active
+run_id: 8ac221a2311840168abf4ddb8277efce
+run_name: nervous-swan-999
+run_uuid: 8ac221a2311840168abf4ddb8277efce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740626408662
+status: 3
+tags: []
+user_id: Leonardo Barrera

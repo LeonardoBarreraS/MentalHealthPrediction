@@ -1,0 +1,9 @@
+fastapi==0.115.5
+joblib==1.4.2
+mlflow==2.16.2
+mlflow_skinny==2.16.2
+numpy==1.26.4
+pandas==2.2.3
+pydantic==2.7.4
+uvicorn==0.18.3
+xgboost==2.1.4

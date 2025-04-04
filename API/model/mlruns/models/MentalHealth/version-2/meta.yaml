@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1740626421008
+current_stage: None
+description: null
+last_updated_timestamp: 1740626421008
+name: MentalHealth
+run_id: 8ac221a2311840168abf4ddb8277efce
+run_link: null
+source: file:///I:/Mi unidad/Data Science/Projects/Exploring Mental Health/API/model/mlruns/534016933238502113/8ac221a2311840168abf4ddb8277efce/artifacts/MentalHealth
+status: READY
+status_message: null
+storage_location: file:///I:/Mi unidad/Data Science/Projects/Exploring Mental Health/API/model/mlruns/534016933238502113/8ac221a2311840168abf4ddb8277efce/artifacts/MentalHealth
+user_id: null
+version: 2

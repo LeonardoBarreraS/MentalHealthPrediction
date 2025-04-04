@@ -1,0 +1,15 @@
+artifact_uri: file:///I:/Mi unidad/Data Science/Projects/Exploring Mental Health/API/model/mlruns/534016933238502113/13b5133e2d2f491999f4718635eba544/artifacts
+end_time: 1740504748466
+entry_point_name: ''
+experiment_id: '534016933238502113'
+lifecycle_stage: active
+run_id: 13b5133e2d2f491999f4718635eba544
+run_name: unique-loon-161
+run_uuid: 13b5133e2d2f491999f4718635eba544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740504741741
+status: 3
+tags: []
+user_id: Leonardo Barrera
